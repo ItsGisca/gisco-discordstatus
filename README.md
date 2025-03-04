@@ -4,7 +4,7 @@ A script for FiveM that changes your Discord Rich Presence
 # Dependency's
 None
 
-# Instalation
+# Installation
 
 **Step1.** Open the Config.lua and change the AppID to your own ID.
 
